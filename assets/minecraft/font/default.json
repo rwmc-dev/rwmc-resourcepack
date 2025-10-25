@@ -114,6 +114,34 @@
 			"ascent": -27,
 			"height": 36,
 			"chars": ["\uE016"]
+		},
+		{
+			"type": "bitmap",
+			"file": "rwmc:gui/karma/karma_2.png",
+			"ascent": -27,
+			"height": 36,
+			"chars": ["\uE017"]
+		},
+		{
+			"type": "bitmap",
+			"file": "rwmc:gui/karma/karma_3.png",
+			"ascent": -27,
+			"height": 36,
+			"chars": ["\uE018"]
+		},
+		{
+			"type": "bitmap",
+			"file": "rwmc:gui/karma/karma_4.png",
+			"ascent": -27,
+			"height": 36,
+			"chars": ["\uE019"]
+		},
+		{
+			"type": "bitmap",
+			"file": "rwmc:gui/karma/karma_5.png",
+			"ascent": -27,
+			"height": 36,
+			"chars": ["\uE01A"]
 		}
 	]
 }
